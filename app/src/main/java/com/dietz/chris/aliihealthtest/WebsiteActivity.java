@@ -9,7 +9,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 /**
- *
+ *  Simple Activity that opens the main website within the app.
  */
 public class WebsiteActivity extends AppCompatActivity {
 
