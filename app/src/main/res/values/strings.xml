@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AliiHealthTest</string>
+
+    <string name="user">User:</string>
+    <string name="email">Email:</string>
+    <string name="doctor_id">Doctor Id:</string>
+
+    <string name="error_response">Error retrieving user.</string>
+
+    <string name="formatted_user_name">%1$s %2$s</string>
+    <string name="loading_user">Loading User…</string>
+    <string name="empty_doctor">This user is not assigned to a doctor.</string>
+
+    <string name="go_to_website">Website</string>
+</resources>
